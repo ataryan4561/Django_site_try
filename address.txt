@@ -1,0 +1,1 @@
+python C:\Users\Aryan\AppData\Local\Programs\Python\Python38-32\Lib\site-packages\Django-1.11.2-py3.8.egg\django\bin\django-admin.py
